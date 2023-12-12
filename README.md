@@ -13,9 +13,7 @@
 
 ## General Information
 - Predictive modeling of bike sharing demand holds immense potential for optimizing fleet management and enhancing user experiences. As the dataset expands and additional insights are gleaned, the application of advanced analytics will undoubtedly play a pivotal role in the evolution of bike-sharing systems.
-
 - The endeavor aimed to unravel patterns in bike utilization, aiding resource optimization and service enhancement.
-
 - In conclusion, this assignment serves as a foundational exploration into the predictive capabilities of linear regression for bike sharing demand. The journey unveils valuable insights that lay the groundwork for future endeavors aimed at refining predictive models and advancing the field of urban mobility.
 
 ## Conclusions
